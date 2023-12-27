@@ -9,4 +9,4 @@ E-Bank est une application de gestion bancaire simple en ligne de commande (cmd)
 7. **Fidélisation des Clients** : Appliquez une fidélisation en ajoutant un pourcentage spécifié aux trois comptes ayant les montants les plus élevés.
 ## Auteur
 
-- [farah frikha] - [https://github.com/farahfrikha/projet-de-e-bank-en-langage-c/edit/main/README.md]
+- [farah frikha] - [https://github.com/farahfrikha]
